@@ -1,2 +1,3 @@
 secondFile.txt
 new line
+new line2
